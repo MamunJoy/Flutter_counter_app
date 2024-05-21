@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("This is Biggenning"),
+        title: Text("This is my Counter App that i made."),
         backgroundColor: Colors.orangeAccent,
         leading: Icon(Icons.arrow_back) ,
         actions: [
